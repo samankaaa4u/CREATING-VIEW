@@ -1,6 +1,6 @@
 # REQUIREMENTS :arrow_double_down:
 
-# 1.) Postgres SQL
+# :biohazard: Postgres SQL
 	https://www.postgresql.org/
 
 #
