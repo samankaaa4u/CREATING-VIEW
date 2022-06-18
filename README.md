@@ -1,6 +1,7 @@
 # REQUIREMENTS:
 
-1.) Postgres SQL
+# 1.) Postgres SQL
+		https://www.postgresql.org/
 
 #
 
