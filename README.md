@@ -1,4 +1,4 @@
-# REQUIREMENTS:
+# REQUIREMENTS: :warning:
 
 # 1.) Postgres SQL
 		https://www.postgresql.org/
