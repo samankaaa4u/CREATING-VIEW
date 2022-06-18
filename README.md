@@ -1,7 +1,7 @@
-# :warning: REQUIREMENTS :arrow_double_down:
+# REQUIREMENTS :arrow_double_down:
 
 # 1.) Postgres SQL
-		https://www.postgresql.org/
+	https://www.postgresql.org/
 
 #
 
